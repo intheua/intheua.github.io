@@ -275,9 +275,9 @@ table td { border: 1px solid #e8e8e8; }
 /** Posts */
 .post-header { margin-bottom: 30px; }
 
-.post-title, .post-content h1 { font-size: 2rem; letter-spacing: -1px; line-height: 1.15; }
+.post-title, .post-content h1 { font-size: 1.625rem; letter-spacing: -1px; line-height: 1.15; }
 
-@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 2rem; } }
+@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 1.625rem; } }
 
 .post-content { margin-bottom: 30px; }
 
