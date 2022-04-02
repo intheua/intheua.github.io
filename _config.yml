@@ -9,6 +9,8 @@ url: https://www.intheua.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+JEKYLL_ENV: production
+
 title: "Ukraine is at war"
 #title_image: "https://live.staticflickr.com/855/43553120622_229ea2ee9e_k.jpg"
 title_image: "/assets/img/logo.jpg"
