@@ -3,7 +3,8 @@
 #url: https://crux.github.io
 url: https://www.intheua.com
 
-environment: production
+#repository: github_username/github_username.github.io
+#github_url: https://github.com/github_username
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -67,10 +68,11 @@ webmaster_verifications:
   #facebook: 1234
   #yandex:
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "intheua"
+disqus: intheua
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "intheua"
 #test
 
 #https://github.com/crux/crux.github.io
