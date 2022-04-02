@@ -24,6 +24,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #locale: uk_UA
+locales: ["uk", "ru"]
 
 #seo_paginator_message: "%<current>s / %<total>s | "
 

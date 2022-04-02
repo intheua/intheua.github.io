@@ -11,3 +11,7 @@ User-agent: *
 {% else %}
 	Disallow:
 {% endif %}
+User-agent: AhrefsSiteAudit
+Allow: /
+User-agent: AhrefsBot
+Allow: /
