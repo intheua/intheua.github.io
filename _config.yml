@@ -19,6 +19,11 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Слава Україні! Слава нації! Смерть ворогам!
 
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+#locale: uk_UA
+
+seo_paginator_message: "%<current>s / %<total>s | "
+
 show_excerpts: true # set to true to show excerpts on the homepage
 #permalink: /:title:output_ext
 
@@ -49,7 +54,13 @@ plugins:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: UA-327243-2
-google_analytics: UA-222821239-1
+webmaster_verifications:
+  google_analytics: UA-222821239-1
+  #bing: 1234
+  #alexa: 1234
+  #baidu: 1234
+  #facebook: 1234
+  #yandex:
 #test
 
 #https://github.com/crux/crux.github.io
