@@ -3,13 +3,13 @@
 #url: https://crux.github.io
 url: https://www.intheua.com
 
+environment: production
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
-
-JEKYLL_ENV: production
 
 title: "Ukraine is at war"
 #title_image: "https://live.staticflickr.com/855/43553120622_229ea2ee9e_k.jpg"
@@ -54,6 +54,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 #  - kramdown
+
+markdown: kramdown
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: UA-327243-2
