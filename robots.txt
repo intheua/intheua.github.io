@@ -15,3 +15,10 @@ User-agent: AhrefsSiteAudit
 Allow: /
 User-agent: AhrefsBot
 Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: msnbot
+Allow: /
+User-Agent: bingbot
+Allow: /
+Sitemap: https://www.intheua.com/sitemap.xml
