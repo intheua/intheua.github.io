@@ -195,6 +195,7 @@ Shlapak, David A., and Michael Johnson, Reinforcing Deterrence on NATO’s Easte
 Sutyagin, Igor, and Michael Clarke, “Ukraine Military Dispositions: The Military Ticks Up While the Clock Ticks Down,” Royal United Studies Institute, April 2014.
 
 About This Perspective
+
 Russia has demonstrated its military competence and operational flexibility through operations in Crimea, eastern Ukraine, and Syria. Recent Russian actions have highlighted the need for a more comprehensive understanding of Russian military capabilities and operations. This perspective provides a primer on how Russia’s military might fight in the event of a major conflict against a peer or near-peer adversary. It is intended to contribute to a dis- cussion within the defense community that leads to a sounder understand- ing of how Russia could use force in support of political objectives.
 
 This Perspective is a product of the “U.S.-Russia Scorecard” study. The larger study is intended to inform the Army and the larger defense com- munity on the military potential of the Russian Federation to challenge the United States in key mission areas. It will provide an assessment of the relative capabilities of the United States, our North Atlantic Treaty Organi- zation allies, and Russia, along with a set of implications and recommenda- tions for U.S. policymakers.
