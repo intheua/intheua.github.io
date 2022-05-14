@@ -40,6 +40,7 @@ Our observations draw from a review of relevant Russian military and national se
 
 --
 ### Ten Key Characteristics of Russian Warfare
+
 1. Russia’s military is postured to defend its homeland and vital industrial and population centers, using layered, integrated air defenses and a limited number of defensive bulwarks and buffer states to buy space and time to react to potential strikes or invasion.
 2. Russia hopes to defend its territory and avoid decisive engagement with a peer or near-peer competitor by fielding defensive systems and strike weapons with extended ranges. These extended ranges would also provide operational advantages to Russian forces conducting offensive operations near its borders.
 3. Given Russia’s conventional weaknesses in a protracted war with a peer or near-peer adversary, it will attempt to use indirect action strategies and asymmetric responses across multiple domains to mitigate perceived imbalances. Russia will attempt to terminate a conflict quickly, using a series of measures that aim to control escalation dynamics.
@@ -50,6 +51,7 @@ Our observations draw from a review of relevant Russian military and national se
 8. At the operational and tactical levels, Russia will likely focus on disrupting, degrading, or destroying adversary command and control and enemy power projection capabilities through the use of kinetic fires, cyber/electronic warfare, and direct action by maneuver forces.
 9. Russia has a limited number of long-range conventional precision strike capabilities that could be used against key operational and strategic targets, especially those at fixed, known locations.
 10. On the ground, Russian tactics will likely reflect a heavy emphasis on massed indirect fires (particularly long-range fires), with the effects of these fires exploited by highly mobile vehicles with substantial direct fire capability.
+
 --
 
 ## Strategic Defensive Posture
@@ -210,11 +212,13 @@ The authors are also grateful to the participants of the workshop that was held 
 Finally, Maria Falvo contributed essential administrative support in the development of this report.
 
 ### About the Authors
+
 Scott Boston is a defense analyst at the RAND Corporation, where he focuses on U.S. Army modernization and Russian military capabilities. A former Army officer, he previously worked at the Smith Richardson Foun- dation and, since joining RAND, has led studies for the Army on combat vehicle modernization and on the Russian military.
 
 Dara Massicot is a defense policy researcher at RAND and was previ- ously a senior analyst for Russian Military Doctrine and Operations at the Department of Defense.
 
 #### Limited Print and Electronic Distribution Rights
+
 This document and trademark(s) contained herein are protected by law. This representa- tion of RAND intellectual property is provided for noncommercial use only. Unauthor- ized posting of this publication online is prohibited. Permission is given to duplicate this document for personal use only, as long as it is unaltered and complete. Permission is required from RAND to reproduce, or reuse in another form, any of our research docu- ments for commercial use. For information on reprint and linking permissions, please visit www.rand.org/pubs/permissions.html.
 The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, health- ier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.
 RAND’s publications do not necessarily reflect the opinions of its research clients and spon- sors. R® is a registered trademark.
