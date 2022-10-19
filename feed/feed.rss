@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Your Blog Name</title>
+	<atom:link href="https://vadim.teteva.com/test/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://teteva.com/podcasts</link>
+	<description>A starter blog demonstrating what Gatsby can do.</description>
+	<lastBuildDate>Mon, 17 Oct 2022 01:40:43 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>Blubrry PowerPress/9.6</generator>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<podcast:locked owner="aaron@teteva.com">yes</podcast:locked>
+	<itunes:summary>test another title vadim.teteva.com Sites site</itunes:summary>
+	<itunes:author>Vadim Teteva</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:image href="https://res.cloudinary.com/teteva/image/upload/v1665968552/common/op99basenlhf3m6xqsnu.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Vadim Teteva</itunes:name>
+		<itunes:email>aaron@teteva.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>aaron@teteva.com (Vadim Teteva)</managingEditor>
+	<itunes:subtitle>test another title vadim.teteva.com Sites site</itunes:subtitle>
+	<image>
+		<title>Your Blog Name</title>
+		<url>https://res.cloudinary.com/teteva/image/upload/v1665968552/common/op99basenlhf3m6xqsnu.jpg</url>
+		<link>https://teteva.com/podcasts</link>
+	</image>
+	<itunes:category text="News">
+		<itunes:category text="News Commentary" />
+	</itunes:category>
+	<googleplay:category text="News &amp; Politics"/>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Philosophy" />
+	</itunes:category>
+	<itunes:category text="News">
+		<itunes:category text="Politics" />
+	</itunes:category>
+	<rawvoice:rating>TV-MA</rawvoice:rating>
+	<item>
+		<title>Огляд новин.</title>
+		<link>https://vadim.teteva.com/test/archives/137/</link>
+		<pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://137</guid>
+		<description>Маск, мобілізаційний ресурс РФ та інше.</description>
+		<content:encoded><![CDATA[<p>Огляд та коментарі.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/137.mp3" length="9844370" type="audio/mpeg" />
+		<itunes:subtitle>Маск, мобілізаційний ресурс РФ та інше.</itunes:subtitle>
+		<itunes:summary><![CDATA[Огляд та коментарі.]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/137.jpg" />
+		<itunes:duration>10:15</itunes:duration>
+		</item>
+	<item>
+		<title>Прибрати Путіна. Місія заради миру.</title>
+		<link>https://vadim.teteva.com/test/archives/136/</link>
+		<pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://136</guid>
+		<description>Фізичне знищення Путіна як наслідок спроб зберегти йому лице.</description>
+		<content:encoded><![CDATA[<p>Це вже не протистояння з НАТО. НАТО &#8211; це всього навсього бойовий підрозділ цивілізованого світу.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/136.mp3" length="11056452" type="audio/mpeg" />
+		<itunes:subtitle>Фізичне знищення Путіна як наслідок спроб зберегти йому лице.</itunes:subtitle>
+		<itunes:summary><![CDATA[Це вже не протистояння з НАТО. НАТО - це всього навсього бойовий підрозділ цивілізованого світу.]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/136.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:31</itunes:duration>
+		</item>
+	<item>
+		<title>Кримський міст. Версії.</title>
+		<link>https://vadim.teteva.com/test/archives/135/</link>
+		<pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://135</guid>
+		<description>Одна з версій, якої притримується і Кремль, і Україна, чомусь.</description>
+		<content:encoded><![CDATA[<p>Для здійснення підриву вантажного автомобіля потрібен був безпосередній візуальний контроль. Це аргумент проти версії, що це було під силу українським спеціалістам.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/135.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Одна з версій, якої притримується і Кремль, і Україна, чомусь.</itunes:subtitle>
+		<itunes:summary><![CDATA[Для здійснення підриву вантажного автомобіля потрібен був безпосередній візуальний контроль. Це аргумент проти версії, що це було під силу українським спеціалістам.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/135.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Кримський міст. Вступ.</title>
+		<link>https://vadim.teteva.com/test/archives/134/</link>
+		<pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://134</guid>
+		<description>The New York Times про ситуацію.</description>
+		<content:encoded><![CDATA[<p>Те, що The New York Times подає як анонімну заяву українського чиновника, УП подає як доконаний факт.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/134.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>The New York Times про ситуацію.</itunes:subtitle>
+		<itunes:summary><![CDATA[Те, що The New York Times подає як анонімну заяву українського чиновника, УП подає як доконаний факт.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/134.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Геостратегія по аматорськи.</title>
+		<link>https://vadim.teteva.com/test/archives/133/</link>
+		<pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://133</guid>
+		<description>Правобережжя Херсонщини.</description>
+		<content:encoded><![CDATA[<p>Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/133.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Правобережжя Херсонщини.</itunes:subtitle>
+		<itunes:summary><![CDATA[Ігри геостратегів-аматорів ОП, які мало не призвела до втрати Півдня. В двох словах.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/133.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Бліц-криг.</title>
+		<link>https://vadim.teteva.com/test/archives/132/</link>
+		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://132</guid>
+		<description>План блискавичного закінчення війни.</description>
+		<content:encoded><![CDATA[<p>Основні бої знову переміщаються в медіа простір, в інформаційний простір. Єдине місце, де Кремль уміє вести бойові дії. Закінчення війни під загрозою застосування ядерної зброї.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/132.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>План блискавичного закінчення війни.</itunes:subtitle>
+		<itunes:summary><![CDATA[Основні бої знову переміщаються в медіа простір, в інформаційний простір. Єдине місце, де Кремль уміє вести бойові дії. Закінчення війни під загрозою застосування ядерної зброї.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/132.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Чмошнік. Частина перша.</title>
+		<link>https://vadim.teteva.com/test/archives/131/</link>
+		<pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://131</guid>
+		<description>По гарячих слідах виступу Кремлівського Чмошніка.</description>
+		<content:encoded><![CDATA[<p>Це вступний випуск. Щодо виступу зроблю більш розширену частину другу.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/131.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>По гарячих слідах виступу Кремлівського Чмошніка.</itunes:subtitle>
+		<itunes:summary><![CDATA[Це вступний випуск. Щодо виступу зроблю більш розширену частину другу.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/131.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Колаборанти.</title>
+		<link>https://vadim.teteva.com/test/archives/130/</link>
+		<pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://130</guid>
+		<description>Колаборанти в Ізюмі вже підняли голову.</description>
+		<content:encoded><![CDATA[<p>Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду &quot;Ждунів&quot;. Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки. Проблемою є те, що комусь це не потрібно.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/130.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Колаборанти в Ізюмі вже підняли голову.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому тьощин зять, який з незрозумілої причини очолює Верховну Раду, по суті очолює Раду &quot;Ждунів&quot;. Проблема колаборантів вирішується простими змінами до Кодексу про адміністративні правопорушення. Описати діяльність, яка має ознаки спрівпраці з ворогом, не являється проблемою з точки зору юридичної техніки. Проблемою є те, що комусь це не потрібно.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/130.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Сенсація. Майже. Козак.</title>
+		<link>https://vadim.teteva.com/test/archives/129/</link>
+		<pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://129</guid>
+		<description>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</description>
+		<content:encoded><![CDATA[<p>Один з варіантів розвитку подій припускає так званого &quot;прєємніка&quot; Путіна. Підкилимні бульдоги Кремля співпрацюють з підкилимними істотами української політики.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/129.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Свіжий погляд на статтю в Reuters про українську підкилимну групу.</itunes:subtitle>
+		<itunes:summary><![CDATA[Один з варіантів розвитку подій припускає так званого &quot;прєємніка&quot; Путіна. Підкилимні бульдоги Кремля співпрацюють з підкилимними істотами української політики.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/129.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Знову ні про що.</title>
+		<link>https://vadim.teteva.com/test/archives/128/</link>
+		<pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://128</guid>
+		<description>Цього разу коротко, як вступ до теми.</description>
+		<content:encoded><![CDATA[<p>Росія в Радбезі ООН. Як це сталося (про це в наступному випуску), і чому петиція є простою формою маніпуляції. Примітивний політичний проект. Це вступ до теми, яку вже обговорював раніше.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/128.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Цього разу коротко, як вступ до теми.</itunes:subtitle>
+		<itunes:summary><![CDATA[Росія в Радбезі ООН. Як це сталося (про це в наступному випуску), і чому петиція є простою формою маніпуляції. Примітивний політичний проект. Це вступ до теми, яку вже обговорював раніше.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/128.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Радники Єрмака проти американців.</title>
+		<link>https://vadim.teteva.com/test/archives/127/</link>
+		<pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://127</guid>
+		<description>Секретна зброя Кремля?</description>
+		<content:encoded><![CDATA[<p>Чому радники, які є найбільшими і найпалкішими патріотами, проти своєї волі і за відсутності відповідних повноважень вимушені вести переговори з ворогом. Чим не влаштовує радників наш головний союзник, і чому Абрамович їх кращий друг.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/127.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Секретна зброя Кремля?</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому радники, які є найбільшими і найпалкішими патріотами, проти своєї волі і за відсутності відповідних повноважень вимушені вести переговори з ворогом. Чим не влаштовує радників наш головний союзник, і чому Абрамович їх кращий друг.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/127.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Термінові мирні переговори з Москвою?</title>
+		<link>https://vadim.teteva.com/test/archives/126/</link>
+		<pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://126</guid>
+		<description>Що намагається донести нам Подоляк через дружнє ЗМІ?</description>
+		<content:encoded><![CDATA[<p>Чому деякі ЗМІ так радісно почали розносити дезинформацію від Подоляка. Чому, начебто поважні ЗМІ, іноді, коли це потрібно Керівнику ОП, забувають про журналістські стандарти?</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/126.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Що намагається донести нам Подоляк через дружнє ЗМІ?</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому деякі ЗМІ так радісно почали розносити дезинформацію від Подоляка. Чому, начебто поважні ЗМІ, іноді, коли це потрібно Керівнику ОП, забувають про журналістські стандарти?<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/126.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Ні про що.</title>
+		<link>https://vadim.teteva.com/test/archives/125/</link>
+		<pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://125</guid>
+		<description>Ні про що, частина надцята. Хто винен - Путін чи режим.</description>
+		<content:encoded><![CDATA[<p>Хто розпочав війну &#8211; Путін чи режим Путіна. Ні Росія, ні народ росії, ні режим Путіна не мають власної волі. Гєгєлівської волі.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/125.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Ні про що, частина надцята. Хто винен - Путін чи режим.</itunes:subtitle>
+		<itunes:summary><![CDATA[Хто розпочав війну - Путін чи режим Путіна. Ні Росія, ні народ росії, ні режим Путіна не мають власної волі. Гєгєлівської волі.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/125.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Скажена імпотенція.</title>
+		<link>https://vadim.teteva.com/test/archives/124/</link>
+		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://124</guid>
+		<description>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</description>
+		<content:encoded><![CDATA[<p>Чи лікується імпотенція оскаженілістю. Огризко вважає, що коли немає ким і чим воювати, все це лікується рішучістю Путіна. Не лікується, як не лікується імпотенція сильним бажанням її вилікувати.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/124.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Скажений Путін. Легенда слєдоватєля, що видає себе за розвідника.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чи лікується імпотенція оскаженілістю. Огризко вважає, що коли немає ким і чим воювати, все це лікується рішучістю Путіна. Не лікується, як не лікується імпотенція сильним бажанням її вилікувати.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/124.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Затяжна війна, частина друга. Прєємніки.</title>
+		<link>https://vadim.teteva.com/test/archives/123/</link>
+		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://123</guid>
+		<description>Прєємніки Путіна.</description>
+		<content:encoded><![CDATA[<p>Соловйов боксер. Техніка безконтактного бою від Владіміра.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/123.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Прєємніки Путіна.</itunes:subtitle>
+		<itunes:summary><![CDATA[Соловйов боксер. Техніка безконтактного бою від Владіміра.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/123.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Затяжна війна.</title>
+		<link>https://vadim.teteva.com/test/archives/122/</link>
+		<pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://122</guid>
+		<description>Чи загрожує Україні затяжна війна.</description>
+		<content:encoded><![CDATA[<p>У двох словах про аналогії з так званою затяжною війною в Ізраїлі. Пізніше треба було б більше про відсутність будь-яких паралелей між війною в Україні та палестино-ізраїльським конфліктом.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/122.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Чи загрожує Україні затяжна війна.</itunes:subtitle>
+		<itunes:summary><![CDATA[У двох словах про аналогії з так званою затяжною війною в Ізраїлі. Пізніше треба було б більше про відсутність будь-яких паралелей між війною в Україні та палестино-ізраїльським конфліктом.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/122.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Чому Путін не визнає поразку.</title>
+		<link>https://vadim.teteva.com/test/archives/120/</link>
+		<pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://120</guid>
+		<description>Ердоган і Путін в одному човні.</description>
+		<content:encoded><![CDATA[<p>Чому не визнавати поразку &#8211; це нормальна, розсудлива позиція.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/120.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Ердоган і Путін в одному човні.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому не визнавати поразку - це нормальна, розсудлива позиція.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/120.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Ізображеніє звєря.</title>
+		<link>https://vadim.teteva.com/test/archives/121/</link>
+		<pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://121</guid>
+		<description>Імпотент в ролі терориста.</description>
+		<content:encoded><![CDATA[<p>Актор ізображає звіра, який стримує у собі звіра.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/121.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Імпотент в ролі терориста.</itunes:subtitle>
+		<itunes:summary><![CDATA[Актор ізображає звіра, який стримує у собі звіра.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/121.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Придністровя.</title>
+		<link>https://vadim.teteva.com/test/archives/119/</link>
+		<pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://119</guid>
+		<description>Колбасний склад - колбасний приз.</description>
+		<content:encoded><![CDATA[<p>Заяви Лаврова про молдавських термінаторів. Чи може угрупування тираспольської алкашні створити регіональний конфлікт? Чи готова Росія і Європа до цього.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/119.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Колбасний склад - колбасний приз.</itunes:subtitle>
+		<itunes:summary><![CDATA[Заяви Лаврова про молдавських термінаторів. Чи може угрупування тираспольської алкашні створити регіональний конфлікт? Чи готова Росія і Європа до цього.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/119.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Три Романа у стакана.</title>
+		<link>https://vadim.teteva.com/test/archives/118/</link>
+		<pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://118</guid>
+		<description>Роман, Роман і Романюк аналізують аналізи.</description>
+		<content:encoded><![CDATA[<p>Українська Правда, як феномен бульварного чтива. Аналізатори на службі у дітей Лейтєнанта Шмідта.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/118.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Роман, Роман і Романюк аналізують аналізи.</itunes:subtitle>
+		<itunes:summary><![CDATA[Українська Правда, як феномен бульварного чтива. Аналізатори на службі у дітей Лейтєнанта Шмідта.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:image href="https://audio44.teteva.com/images/118.jpg" />
+		<itunes:duration>7:04</itunes:duration>
+		</item>
+	<item>
+		<title>Дугін і руській мір в Україні.</title>
+		<link>https://vadim.teteva.com/test/archives/117/</link>
+		<pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://117</guid>
+		<description>Руській мір Орестовича.</description>
+		<content:encoded><![CDATA[<p>Наївні пояснення Латиніних, щодо ситуації з Дугіним, для закручування гайок в РФ. Закручування гайок Кремлем і так званий привід для цього, це все Басні Криладзе. Війна в Україні розпочалась без всякий &quot;гляйвіців&quot; і приводів. Скільки можна обговорювати всілякі там &quot;приводи&quot;.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/117.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Руській мір Орестовича.</itunes:subtitle>
+		<itunes:summary><![CDATA[Наївні пояснення Латиніних, щодо ситуації з Дугіним, для закручування гайок в РФ. Закручування гайок Кремлем і так званий привід для цього, це все Басні Криладзе. Війна в Україні розпочалась без всякий &quot;гляйвіців&quot; і приводів. Скільки можна обговорювати всілякі там &quot;приводи&quot;.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Одна із загроз.</title>
+		<link>https://vadim.teteva.com/test/archives/116/</link>
+		<pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://116</guid>
+		<description>Хто замінить Президента у випадку чого.</description>
+		<content:encoded><![CDATA[<p>У старої шлюхи, у Путіна, майже не залишилось важелів впливу на ситуацію.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/116.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Хто замінить Президента у випадку чого.</itunes:subtitle>
+		<itunes:summary><![CDATA[У старої шлюхи, у Путіна, майже не залишилось важелів впливу на ситуацію.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Тридцятирічні генерали.</title>
+		<link>https://vadim.teteva.com/test/archives/115/</link>
+		<pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://115</guid>
+		<description>Буданов про вторгнення та інше.</description>
+		<content:encoded><![CDATA[<p>Росією правлять рептилоїди а наступ на Херсон проспали. Результат аналізу інформації про російське вторгнення.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/115.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Буданов про вторгнення та інше.</itunes:subtitle>
+		<itunes:summary><![CDATA[Росією правлять рептилоїди а наступ на Херсон проспали. Результат аналізу інформації про російське вторгнення.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Ердоган і Путін, Сирія проти України?</title>
+		<link>https://vadim.teteva.com/test/archives/114/</link>
+		<pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://114</guid>
+		<description>Що і кому продає Ердоган.</description>
+		<content:encoded><![CDATA[<p>Головна загроза для України, це так зване припинення вогню. Саме на це планують вмовити Президента.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/114.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Що і кому продає Ердоган.</itunes:subtitle>
+		<itunes:summary><![CDATA[Головна загроза для України, це так зване припинення вогню. Саме на це планують вмовити Президента.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Агентура ФСБ будує вільну Україну.</title>
+		<link>https://vadim.teteva.com/test/archives/113/</link>
+		<pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://113</guid>
+		<description>Чому так вільно дихає руський чєловєк в Українському інфопросторі.</description>
+		<content:encoded><![CDATA[<p>Шелест, Карасьов &#8211; хто вони, патріоти? Чи все ж свідомі громадяни?</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/113.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Чому так вільно дихає руський чєловєк в Українському інфопросторі.</itunes:subtitle>
+		<itunes:summary><![CDATA[Шелест, Карасьов - хто вони, патріоти? Чи все ж свідомі громадяни?<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Медуза, як прес-секретар Путіна.</title>
+		<link>https://vadim.teteva.com/test/archives/112/</link>
+		<pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://112</guid>
+		<description>Опозиційна Медуза пояснює слова Чмошніка.</description>
+		<content:encoded><![CDATA[<p>Старий кінь ізображає молодика, і доводить, що у ліжку він витривалий. Старі добрі методи.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/112.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Опозиційна Медуза пояснює слова Чмошніка.</itunes:subtitle>
+		<itunes:summary><![CDATA[Старий кінь ізображає молодика, і доводить, що у ліжку він витривалий. Старі добрі методи.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Взяти Україну за три дні.</title>
+		<link>https://vadim.teteva.com/test/archives/111/</link>
+		<pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://111</guid>
+		<description>Якби ми це повідомили, тоді я б втрачав 7 мільярдів доларів на місяць.</description>
+		<content:encoded><![CDATA[<p>Верховний пояснив, чому влада не попередила українців про вторгнення Росії. Президент Володимир Зеленський заявив, що якби влада попередила українців про вторгнення Росії завчасно, то окупанти захопили б Україну за три дні.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/111.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Якби ми це повідомили, тоді я б втрачав 7 мільярдів доларів на місяць.</itunes:subtitle>
+		<itunes:summary><![CDATA[Верховний пояснив, чому влада не попередила українців про вторгнення Росії. Президент Володимир Зеленський заявив, що якби влада попередила українців про вторгнення Росії завчасно, то окупанти захопили б Україну за три дні.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Кому закони не писані.</title>
+		<link>https://vadim.teteva.com/test/archives/110/</link>
+		<pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://110</guid>
+		<description>Росія і Китай перебувають в ООН незаконно.</description>
+		<content:encoded><![CDATA[<p>Чому розмови про закон і порядок, щодо ООН, є дурницями.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/110.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Росія і Китай перебувають в ООН незаконно.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому розмови про закон і порядок, щодо ООН, є дурницями.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Точніше, ніж Хаймарс.</title>
+		<link>https://vadim.teteva.com/test/archives/109/</link>
+		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://109</guid>
+		<description>Були опитані понад 50 свідків.</description>
+		<content:encoded><![CDATA[<p>Генпрокурор: Одна з версій слідства щодо загибелі Вадатурського – цілеспрямоване вбивство.</p>
+<p>Були опитані понад 50 свідків&#8230; Про що? Як ракета летіла?</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/109.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Були опитані понад 50 свідків.</itunes:subtitle>
+		<itunes:summary><![CDATA[Генпрокурор: Одна з версій слідства щодо загибелі Вадатурського – цілеспрямоване вбивство.<br />
+Були опитані понад 50 свідків... Про що? Як ракета летіла?<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Ні про що.</title>
+		<link>https://vadim.teteva.com/test/archives/108/</link>
+		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://108</guid>
+		<description>Ні про що і трохи про Третю світову.</description>
+		<content:encoded><![CDATA[<p>Чергова сенсація і Третя світова на Тайвані.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/108.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Ні про що і трохи про Третю світову.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чергова сенсація і Третя світова на Тайвані.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Відсмоктати у Ердогана.</title>
+		<link>https://vadim.teteva.com/test/archives/107/</link>
+		<pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://107</guid>
+		<description>Херсон, як камень преткновения.</description>
+		<content:encoded><![CDATA[<p>Що може Путін &quot;продати&quot; своїм рабам, як перемогу.</p>
+<p>Первоначально выражение камень преткновения встречается в Ветхом Завете в Книге пророка Исаии, где Бог говорит о себе:</p>
+<p>будет Он освящением и камнем преткновения, и скалою соблазна для обоих домов Израиля</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/107.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Херсон, як камень преткновения.</itunes:subtitle>
+		<itunes:summary><![CDATA[Що може Путін &quot;продати&quot; своїм рабам, як перемогу.<br />
+Первоначально выражение камень преткновения встречается в Ветхом Завете в Книге пророка Исаии, где Бог говорит о себе:<br />
+будет Он освящением и камнем преткновения, и скалою соблазна для обоих домов Израиля<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Чи можлива і що змінить ліквідація чи реформа ООН.</title>
+		<link>https://vadim.teteva.com/test/archives/105/</link>
+		<pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://105</guid>
+		<description>Реформа ООН.</description>
+		<content:encoded><![CDATA[<p>Реформа Ради Безпеки Організації Об&#8217;єднаних Націй (РБ ООН) охоплює п&#8217;ять ключових питань&#8230; (про це в частині другій)</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/105.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Реформа ООН.</itunes:subtitle>
+		<itunes:summary><![CDATA[Реформа Ради Безпеки Організації Об'єднаних Націй (РБ ООН) охоплює п'ять ключових питань... (про це в частині другій)<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Радники проти фашистів.</title>
+		<link>https://vadim.teteva.com/test/archives/106/</link>
+		<pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://106</guid>
+		<description>Подоляк.</description>
+		<content:encoded><![CDATA[<p>Що таке лицемірʼя.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/106.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Подоляк.</itunes:subtitle>
+		<itunes:summary><![CDATA[Що таке лицемірʼя.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Здача Чорнобиля, як місток до Києва.</title>
+		<link>https://vadim.teteva.com/test/archives/103/</link>
+		<pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://103</guid>
+		<description>Росія змогла захопити Чорнобиль не випадково.</description>
+		<content:encoded><![CDATA[<p>Reuters: РФ змогла захопити Чорнобиль завдяки спецагентам, яких відправила туди ще в 2021 році.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/103.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Росія змогла захопити Чорнобиль не випадково.</itunes:subtitle>
+		<itunes:summary><![CDATA[Reuters: РФ змогла захопити Чорнобиль завдяки спецагентам, яких відправила туди ще в 2021 році.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Два слова по Херсону</title>
+		<link>https://vadim.teteva.com/test/archives/102/</link>
+		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://102</guid>
+		<description>Очевидні речі про рішення рашистів по Херсону.</description>
+		<content:encoded><![CDATA[<p>Російські Фашисти почали використовувати паромну переправу поряд з Антонівським мостом.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/102.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Очевидні речі про рішення рашистів по Херсону.</itunes:subtitle>
+		<itunes:summary><![CDATA[Російські Фашисти почали використовувати паромну переправу поряд з Антонівським мостом.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Психопатія Путіна</title>
+		<link>https://vadim.teteva.com/test/archives/101/</link>
+		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://101</guid>
+		<description>Про публікацію професора, який прагне хайпу.</description>
+		<content:encoded><![CDATA[<p>«Путин — психопат с признаками садиста, его провоцирует слабость». Профессор психиатрии Джеймс Фэллон о том, как предотвратить ядерную войну.</p>
+<p>Спірно і НЕнауково.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/101.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Про публікацію професора, який прагне хайпу.</itunes:subtitle>
+		<itunes:summary><![CDATA[«Путин — психопат с признаками садиста, его провоцирует слабость». Профессор психиатрии Джеймс Фэллон о том, как предотвратить ядерную войну.<br />
+Спірно і НЕнауково.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Конституція і Корбан</title>
+		<link>https://vadim.teteva.com/test/archives/100/</link>
+		<pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://100</guid>
+		<description>Відкритий лист до Єрмака про ізраїльське громадянство Корбана.</description>
+		<content:encoded><![CDATA[<p>&quot;Громадянство Корбану!&quot;. Відкритий лист.</p>
+<blockquote>
+<p>Адже внесок Геннадія Корбана у справу захисту України зараз, як і в 2014 році – вагомий та беззаперечний. (як і вагомий внесок Коломойського)</p>
+</blockquote>
+<p>Питання у тому, є у нас Конституція, чи нема.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/100.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Відкритий лист до Єрмака про ізраїльське громадянство Корбана.</itunes:subtitle>
+		<itunes:summary><![CDATA[&quot;Громадянство Корбану!&quot;. Відкритий лист.<br />
+<br />
+Адже внесок Геннадія Корбана у справу захисту України зараз, як і в 2014 році – вагомий та беззаперечний. (як і вагомий внесок Коломойського)<br />
+<br />
+Питання у тому, є у нас Конституція, чи нема.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>HIMARS або справжні причини відмови у наданні тактичних ракет.</title>
+		<link>https://vadim.teteva.com/test/archives/99/</link>
+		<pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://99</guid>
+		<description>Англосакси відійшли в сторону і залишили нас, Україну?</description>
+		<content:encoded><![CDATA[<p>Чому гра англосаксів, і особливо американців, здається такою складною, та ще й настільки, що агентам Кремля вдається натягувати сову на глобус в теоріях про таємне бажання Байдена зробити Путіна володарем всесвіту.</p>
+<p>Хтось не хоче щоб Україна виграла?<br />
+0:42 Іларіонов стверджує, що Байден мало не прагне зробити Путіна володарем світу<br />
+0:52 Англосакси відійшли в сторону і залишили нас, Україну?<br />
+1:22 Макрон у секс по телефону<br />
+1:47 Чому нам не надають армійські тактичні ракетні системи<br />
+2:50 Це не спражня причина страхів Кремля<br />
+4:04 Стратегія поступового удушення Кремля<br />
+5:31 І ще про АТАСМS дальності 300<br />
+6:38 Зброя масового ураження , перевернути гральний стіл<br />
+7:09 Далі буде видно. А зброя на підході. The end.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/99.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Англосакси відійшли в сторону і залишили нас, Україну?</itunes:subtitle>
+		<itunes:summary><![CDATA[Чому гра англосаксів, і особливо американців, здається такою складною, та ще й настільки, що агентам Кремля вдається натягувати сову на глобус в теоріях про таємне бажання Байдена зробити Путіна володарем всесвіту.<br />
+Хтось не хоче щоб Україна виграла?<br />
+0:42 Іларіонов стверджує, що Байден мало не прагне зробити Путіна володарем світу<br />
+0:52 Англосакси відійшли в сторону і залишили нас, Україну?<br />
+1:22 Макрон у секс по телефону<br />
+1:47 Чому нам не надають армійські тактичні ракетні системи<br />
+2:50 Це не спражня причина страхів Кремля<br />
+4:04 Стратегія поступового удушення Кремля<br />
+5:31 І ще про АТАСМS дальності 300<br />
+6:38 Зброя масового ураження , перевернути гральний стіл<br />
+7:09 Далі буде видно. А зброя на підході. The end.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Коли завершиться війна. Частина друга.</title>
+		<link>https://vadim.teteva.com/test/archives/98/</link>
+		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://98</guid>
+		<description>Політики — не воїни, і вони не на полі бою.</description>
+		<content:encoded><![CDATA[<p>Путін тим більше не воїн. Всі вони, всі політики — всі вони про домовленості. Ніхто з них не готовий помирати. Тим більше коли є варіанти виходу з ситуації, нехай і не такі, які нафантазував собі Путін. Саме тому Американці, наприклад, постійно балансують, залишаючи Путіну поле для маневру, для відходу. Правда кожного разу відходу на все більш невигідні для Кремля позиції.</p>
+<p>Вступ.<br />
+0:25 Війни закінчуються лише капітуляцією?<br />
+0:48 У чому специфічність ситуації?<br />
+1:38 Основні гравці не є безпосередніми учасниками<br />
+2:08 Чи неминучі переговори<br />
+3:00 Політики – це не воїни а Путін – політик<br />
+3:18 Чи схильний фашист Путін до перемовин<br />
+3:45 Як Кремль звик “домовлятися”<br />
+4:42 Варіанти розвитку подій<br />
+5:16 Спроба зайти збоку в аналізі, Правобережжя<br />
+5:43 Продовження у частині третій The end.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/98.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Політики — не воїни, і вони не на полі бою.</itunes:subtitle>
+		<itunes:summary><![CDATA[Путін тим більше не воїн. Всі вони, всі політики — всі вони про домовленості. Ніхто з них не готовий помирати. Тим більше коли є варіанти виходу з ситуації, нехай і не такі, які нафантазував собі Путін. Саме тому Американці, наприклад, постійно балансують, залишаючи Путіну поле для маневру, для відходу. Правда кожного разу відходу на все більш невигідні для Кремля позиції.<br />
+Вступ.<br />
+0:25 Війни закінчуються лише капітуляцією?<br />
+0:48 У чому специфічність ситуації?<br />
+1:38 Основні гравці не є безпосередніми учасниками<br />
+2:08 Чи неминучі переговори<br />
+3:00 Політики – це не воїни а Путін – політик<br />
+3:18 Чи схильний фашист Путін до перемовин<br />
+3:45 Як Кремль звик “домовлятися”<br />
+4:42 Варіанти розвитку подій<br />
+5:16 Спроба зайти збоку в аналізі, Правобережжя<br />
+5:43 Продовження у частині третій The end.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Прогнози на війну. Частина перша. Боброїдка.</title>
+		<link>https://vadim.teteva.com/test/archives/97/</link>
+		<pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://97</guid>
+		<description>Путін. Йому потрібен час і уроки, які йому дасть реальність.</description>
+		<content:encoded><![CDATA[<p>Перше, наскільки вона може бути довгою, не знає ні Путін, ні ми. Путін не знає, бо тепер у нього класична проблема — бажання не збігаються з можливостями. А бажанням своїм він не господар. Не повною мірою. Так буває.</p>
+<p>Вступ.<br />
+0:20 Маленька проблема Путіна<br />
+1:35 Байден злив Україну, знову нагадує Іларіонов<br />
+2:10 Боброїдка Симоньян<br />
+2:40 Чорна жопа<br />
+3:00 Вища раса, нові арійці<br />
+3:20 Корекція планів вузькооких арійців<br />
+4:00 Анонс The end.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/97.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Путін. Йому потрібен час і уроки, які йому дасть реальність.</itunes:subtitle>
+		<itunes:summary><![CDATA[Перше, наскільки вона може бути довгою, не знає ні Путін, ні ми. Путін не знає, бо тепер у нього класична проблема — бажання не збігаються з можливостями. А бажанням своїм він не господар. Не повною мірою. Так буває.<br />
+Вступ.<br />
+0:20 Маленька проблема Путіна<br />
+1:35 Байден злив Україну, знову нагадує Іларіонов<br />
+2:10 Боброїдка Симоньян<br />
+2:40 Чорна жопа<br />
+3:00 Вища раса, нові арійці<br />
+3:20 Корекція планів вузькооких арійців<br />
+4:00 Анонс The end.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Військовий Титан в Україні.</title>
+		<link>https://vadim.teteva.com/test/archives/96/</link>
+		<pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://96</guid>
+		<description>Захід створив в Україні військового титана, який його і погубить.</description>
+		<content:encoded><![CDATA[<p>“Росію здивував рівень підготовки та оснащеності українських збройних формувань у поєднанні з їх високою вмотивованістю. Для росіян стало одкровенням усвідомлення, наскільки потужну силу, заточену цілеспрямовано проти нас (проти Росії), за вісім років прокачали у військовому і в ідеологічному відношенні у нас же під боком США та НАТО.” — додав він.</p>
+<p>“Захід створив в Україні військового титана, який його і погубить” — резюмує російський експерт.</p>
+<p>Вступ<br />
+0:15 Американці підштовхують до зради<br />
+1:01 Тема фізичного знешкодження Путіна<br />
+1:37 Соловей каже, що ФСБ не вірить у переворот<br />
+2:20 Посол Росії в США скиглить, що російських дипломатів і військових просто вербують<br />
+3:20 США домоглися занадто великих успіхів в модернізації української армії<br />
+3:52 Росію здивував рівень підготовки та оснащеності Армії України<br />
+4:40 Українці піднесли заходу великий сюрприз – посол РФ<br />
+6:20 Примітивна тактика Кремля<br />
+6:44 Захід створив в Україні військового титана<br />
+7:27 Революція у розумінні Росією своїх проблем<br />
+8:03 Кремль знаходиться на стадії торгу</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/96.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Захід створив в Україні військового титана, який його і погубить.</itunes:subtitle>
+		<itunes:summary><![CDATA[“Росію здивував рівень підготовки та оснащеності українських збройних формувань у поєднанні з їх високою вмотивованістю. Для росіян стало одкровенням усвідомлення, наскільки потужну силу, заточену цілеспрямовано проти нас (проти Росії), за вісім років прокачали у військовому і в ідеологічному відношенні у нас же під боком США та НАТО.” — додав він.<br />
+“Захід створив в Україні військового титана, який його і погубить” — резюмує російський експерт.<br />
+Вступ<br />
+0:15 Американці підштовхують до зради<br />
+1:01 Тема фізичного знешкодження Путіна<br />
+1:37 Соловей каже, що ФСБ не вірить у переворот<br />
+2:20 Посол Росії в США скиглить, що російських дипломатів і військових просто вербують<br />
+3:20 США домоглися занадто великих успіхів в модернізації української армії<br />
+3:52 Росію здивував рівень підготовки та оснащеності Армії України<br />
+4:40 Українці піднесли заходу великий сюрприз – посол РФ<br />
+6:20 Примітивна тактика Кремля<br />
+6:44 Захід створив в Україні військового титана<br />
+7:27 Революція у розумінні Росією своїх проблем<br />
+8:03 Кремль знаходиться на стадії торгу<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Пуповина правобережного військового угрупування РФ в Україні.</title>
+		<link>https://vadim.teteva.com/test/archives/95/</link>
+		<pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://95</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/95.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>За деревами лісу не видно.</title>
+		<link>https://vadim.teteva.com/test/archives/94/</link>
+		<pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://94</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/94.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Ми нашими територіями не торгуємо, інтервʼю Глави ОП. Частина перша.</title>
+		<link>https://vadim.teteva.com/test/archives/93/</link>
+		<pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://93</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/93.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Прибрати Путіна.</title>
+		<link>https://vadim.teteva.com/test/archives/92/</link>
+		<pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://92</guid>
+		<description>Бо і Чечня і Сирія, це не тільки далеко - це не зовсім білі люди.</description>
+		<content:encoded><![CDATA[<p>Путін, як військовий злочинець і фашист, народився в Чечні і пройшов процес становлення в Сирії. Все це про расизм. Бо і Чечня і Сирія, це не тільки далеко &#8211; це не зовсім білі люди, в розумінні європейців. В Сирії Путін напрацьовував імунітет Європи до злодіянь проти людства. Людяності.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/92.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Бо і Чечня і Сирія, це не тільки далеко - це не зовсім білі люди.</itunes:subtitle>
+		<itunes:summary><![CDATA[Путін, як військовий злочинець і фашист, народився в Чечні і пройшов процес становлення в Сирії. Все це про расизм. Бо і Чечня і Сирія, це не тільки далеко - це не зовсім білі люди, в розумінні європейців. В Сирії Путін напрацьовував імунітет Європи до злодіянь проти людства. Людяності.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Скандальновідомий професор Соловєй про ядерний удар по Польщі.</title>
+		<link>https://vadim.teteva.com/test/archives/91/</link>
+		<pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://91</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/91.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Знову трохи про Херсон.</title>
+		<link>https://vadim.teteva.com/test/archives/90/</link>
+		<pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://90</guid>
+		<description>Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям</description>
+		<content:encoded><![CDATA[<p>Чорнобаївка, це звісно кумедно. Але втратити Херсон, надовго, ми можемо не через аеродром.<br />
+Сусідні автомобільний міст та особливо залізничний (Антонівський) міст &#8211; без них постачання армії РФ на правий берег майже неможливе. Нову Каховку поки не беремо до уваги, хоча і тут невідомо, що ми і для кого зберегли.<br />
+І можна не сумніватися, що Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям, у будь яких перемовинах про перемир‘я.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/90.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям</itunes:subtitle>
+		<itunes:summary><![CDATA[Чорнобаївка, це звісно кумедно. Але втратити Херсон, надовго, ми можемо не через аеродром.<br />
+Сусідні автомобільний міст та особливо залізничний (Антонівський) міст - без них постачання армії РФ на правий берег майже неможливе. Нову Каховку поки не беремо до уваги, хоча і тут невідомо, що ми і для кого зберегли.<br />
+І можна не сумніватися, що Кремль категорично наполягатиме на збереженні контролю над херсонським правобережжям, у будь яких перемовинах про перемир‘я.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Чи можлива війна. Знову та знову. Епатаж.  épater les bourgeois.</title>
+		<link>https://vadim.teteva.com/test/archives/88/</link>
+		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://88</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/88.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Аналізаторам історії. Тим, хто знаходить аналогії методом промацування.</title>
+		<link>https://vadim.teteva.com/test/archives/89/</link>
+		<pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://89</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/89.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>За деревами лісу не видно.</title>
+		<link>https://vadim.teteva.com/test/archives/87/</link>
+		<pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://87</guid>
+		<description>Чому Путіна ігнорують. І чому це стає правилом. Чергове китайське попередження.</description>
+		<content:encoded><![CDATA[Чому Путіна ігнорують. І чому це стає правилом. Чергове китайське попередження.]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/87.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Чому Путіна ігнорують. І чому це стає правилом. Чергове китайське попередження.</itunes:subtitle>
+		<itunes:summary>Чому Путіна ігнорують. І чому це стає правилом. Чергове китайське попередження.</itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Крик відчаю Головного розвідника РФ до структур ЛГБТ та НАТО.</title>
+		<link>https://vadim.teteva.com/test/archives/86/</link>
+		<pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://86</guid>
+		<description>Наришкін назвав російську спецоперацію в Україні точкою неповернення</description>
+		<content:encoded><![CDATA[<p>Директор Служби зовнішньої розвідки (СЗР) Сергій Наришкін назвав російську спецоперацію в Україні точкою неповернення для колективного Заходу: &quot;Ступінь абсурду і істерії настільки завищена, що навіть російські коти піддаються нападам, яких відсторонюють від участі в зарубіжних виставках&quot;</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/86.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Наришкін назвав російську спецоперацію в Україні точкою неповернення</itunes:subtitle>
+		<itunes:summary><![CDATA[Директор Служби зовнішньої розвідки (СЗР) Сергій Наришкін назвав російську спецоперацію в Україні точкою неповернення для колективного Заходу: &quot;Ступінь абсурду і істерії настільки завищена, що навіть російські коти піддаються нападам, яких відсторонюють від участі в зарубіжних виставках&quot;<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Передок Фаріди і екзистенційний вибір Путіна-Слуцького.</title>
+		<link>https://vadim.teteva.com/test/archives/85/</link>
+		<pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://85</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/85.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Чому Путін копіює кроки Гітлера, як низькопробний злочинець імітатор.</title>
+		<link>https://vadim.teteva.com/test/archives/84/</link>
+		<pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://84</guid>
+		<description>Остаточне вирішення українського питання</description>
+		<content:encoded><![CDATA[<p>Отже, ми маємо справу з задекларованим РФ необхідним з її точки зору геноцидом українців, як можливість вирішити українське питання раз і назавжди. Тому що українство &#8211; загроза Росії, як про це прямо сказано в статті. Саме “Остаточне вирішення українського питання” путін назвав ціллю початку війни в Україні, вранці 24 лютого.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/84.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Остаточне вирішення українського питання</itunes:subtitle>
+		<itunes:summary><![CDATA[Отже, ми маємо справу з задекларованим РФ необхідним з її точки зору геноцидом українців, як можливість вирішити українське питання раз і назавжди. Тому що українство - загроза Росії, як про це прямо сказано в статті. Саме “Остаточне вирішення українського питання” путін назвав ціллю початку війни в Україні, вранці 24 лютого.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Про що вони думали? Частина перша. Психічний стан Путіна.</title>
+		<link>https://vadim.teteva.com/test/archives/83/</link>
+		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://83</guid>
+		<description>Сенсаційна інформація про стан здоровя путіна</description>
+		<content:encoded><![CDATA[<p>Сенсаційна інформація про стан здоровʼя путіна та ритуальні збочення в Кремлі, зроблені  занадто провокаційно та демостративно.<br />
+Ця начебто таємна та бентежна інформація, подана таким чином, що однозначно можна сказати лише одне &#8211; вона викликає різнонаправлені реакції та висновки. А це головна ознака “вкиду” що має ціллю посіяти сумʼяття щодо дійсного стану “вождя”.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/83.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Сенсаційна інформація про стан здоровя путіна</itunes:subtitle>
+		<itunes:summary><![CDATA[Сенсаційна інформація про стан здоровʼя путіна та ритуальні збочення в Кремлі, зроблені  занадто провокаційно та демостративно.<br />
+Ця начебто таємна та бентежна інформація, подана таким чином, що однозначно можна сказати лише одне - вона викликає різнонаправлені реакції та висновки. А це головна ознака “вкиду” що має ціллю посіяти сумʼяття щодо дійсного стану “вождя”.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Як готувалась війна. Чалий.</title>
+		<link>https://vadim.teteva.com/test/archives/82/</link>
+		<pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://82</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/82.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Нагляд за Україною. Нагляд Росією в рамках угоди про гарантії безпеки.</title>
+		<link>https://vadim.teteva.com/test/archives/81/</link>
+		<pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://81</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/81.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Троянські коні Росії у складі української переговорної групи.</title>
+		<link>https://vadim.teteva.com/test/archives/80/</link>
+		<pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://80</guid>
+		<description>Чалий, головний троянський кінь Росії у складі Української переговорної групи.</description>
+		<content:encoded><![CDATA[<p>Прибічник теорії про Гегемонію Росії, пан Карасьов, вже оцінив перемовини в Стамбулі, як перемогу України. А його близький друг, Чалий, головний троянський кінь Росії у складі Української переговорної групи.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/80.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Чалий, головний троянський кінь Росії у складі Української переговорної групи.</itunes:subtitle>
+		<itunes:summary><![CDATA[Прибічник теорії про Гегемонію Росії, пан Карасьов, вже оцінив перемовини в Стамбулі, як перемогу України. А його близький друг, Чалий, головний троянський кінь Росії у складі Української переговорної групи.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Російська агентура, як головна бойова одиниця Кремля. Як здали Херсон.</title>
+		<link>https://vadim.teteva.com/test/archives/79/</link>
+		<pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://79</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/79.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Путін, як військовий злочинець, чому це сказано і чому це доводиться поснювати.</title>
+		<link>https://vadim.teteva.com/test/archives/78/</link>
+		<pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://78</guid>
+		<description>Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?</description>
+		<content:encoded><![CDATA[<p>Путін &#8211; убивця. За це колись речнику Білого Дому довелося виправдовуватися. Але у світлі останніх подій виникає питання: наскільки випадковими є такі заяви Байдена?<br />
+Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?<br />
+“Ця людина не може залишатися при владі”, &#8211; сказав президент США у Варшаві.<br />
+“Ця людина” , всім було зрозуміло, мова про Путіна.<br />
+В якій ситуації виголошувалась ця промова? Білий Дім вимушений постійно вирішувати проблему єдності в рядах західних союзників. Багато хто постійно забуває, наскільки це серйозна проблема.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/78.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?</itunes:subtitle>
+		<itunes:summary><![CDATA[Путін - убивця. За це колись речнику Білого Дому довелося виправдовуватися. Але у світлі останніх подій виникає питання: наскільки випадковими є такі заяви Байдена?<br />
+Жорстка риторика Байдена в Польщі, чи означає вона відхід від політики балансування щодо Росії?<br />
+“Ця людина не може залишатися при владі”, - сказав президент США у Варшаві.<br />
+“Ця людина” , всім було зрозуміло, мова про Путіна.<br />
+В якій ситуації виголошувалась ця промова? Білий Дім вимушений постійно вирішувати проблему єдності в рядах західних союзників. Багато хто постійно забуває, наскільки це серйозна проблема.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Майстер Путін і Маргарита Петрівна Кабаєва.</title>
+		<link>https://vadim.teteva.com/test/archives/77/</link>
+		<pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://77</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/77.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Сухопутний коридор в Крим.</title>
+		<link>https://vadim.teteva.com/test/archives/76/</link>
+		<pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://76</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/76.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Затяжна війна? Російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє.</title>
+		<link>https://vadim.teteva.com/test/archives/75/</link>
+		<pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://75</guid>
+		<description>Чи справді російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє. Але теперешні втрати Росії в Країні в сто разів інтенсивніші, ніж втрати Радянського Союзу в Афганістані.</description>
+		<content:encoded><![CDATA[<p>Чи справді російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє. Але теперешні втрати Росії в Країні в сто разів інтенсивніші, ніж втрати Радянського Союзу в Афганістані.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/75.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Чи справді російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє. Але теперешні втрати Росії в Країні в сто разів інтенсивніші, ніж втрати Радянського Союзу в Афганістані.</itunes:subtitle>
+		<itunes:summary><![CDATA[Чи справді російська армія не чутлива до втрат? Досвід Афганістану свідчить про зворотнє. Але теперешні втрати Росії в Країні в сто разів інтенсивніші, ніж втрати Радянського Союзу в Афганістані.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Ні про шо, частина друга. Операція Глянець.</title>
+		<link>https://vadim.teteva.com/test/archives/74/</link>
+		<pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://74</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/74.mp3" length="6783237" type="image/mp3" />
+			<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Любов або війна. Гонець Путіна &#8211; Карасьов.</title>
+		<link>https://vadim.teteva.com/test/archives/73/</link>
+		<pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://73</guid>
+		<description>Палюбі мєня такой.</description>
+		<content:encoded><![CDATA[Палюбі мєня такой.]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/73.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>Палюбі мєня такой.</itunes:subtitle>
+		<itunes:summary>Палюбі мєня такой.</itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+	<item>
+		<title>Романтична історія моряка і Рози. От нєх дєлать. Благовіщенське сьогодні, номер 23.</title>
+		<link>https://vadim.teteva.com/test/archives/72/</link>
+		<pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://72</guid>
+		<description>От нєх дєлать про любов. Одним словом, Рух - це здорово, а сало - дорожає.</description>
+		<content:encoded><![CDATA[<p>Романтична історія моряка і Рози (в кінці).<br />
+А спочатку огляд місцевого турніру з гандболу.<br />
+По ходу &#8211; різне, з останнього, на що можна було звернути увагу (а можна і не звертати) в потоці подій міста Благовіщенське. Центральна Україна.<br />
+Зрозуміло &#8211; от нєх дєлать.</p>
+<p>Одним словом, Рух &#8211; це здорово, а сало &#8211; дорожає.</p>
+]]></content:encoded>
+		<enclosure url="https://audio44.teteva.com/mp3/72.mp3" length="6783237" type="image/mp3" />
+		<itunes:subtitle>От нєх дєлать про любов. Одним словом, Рух - це здорово, а сало - дорожає.</itunes:subtitle>
+		<itunes:summary><![CDATA[Романтична історія моряка і Рози (в кінці).<br />
+А спочатку огляд місцевого турніру з гандболу.<br />
+По ходу - різне, з останнього, на що можна було звернути увагу (а можна і не звертати) в потоці подій міста Благовіщенське. Центральна Україна.<br />
+Зрозуміло - от нєх дєлать.<br />
+Одним словом, Рух - це здорово, а сало - дорожає.<br />]]></itunes:summary>
+		<itunes:author>Vadim Teteva</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+</channel>
+</rss>
